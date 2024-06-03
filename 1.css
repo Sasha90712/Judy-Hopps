@@ -1,0 +1,33 @@
+img {
+    width:100%;
+}
+body {
+    background:#000000;
+	color: white;
+	text-align: center;
+}
+#a1 {
+	background:red;
+}
+#a2 {
+	background:blue;
+}
+#a1,#a2,tr,td{
+	border: 0.2em solid white;
+}
+ table {
+	margin-right:70%;
+	margin-left:0%;
+}
+a {
+	 color:blue;
+}
+#sasha {
+	background:white;
+	color:black;
+	float:right;
+	width:70%;
+}
+.what {
+	font-size:150%;
+}
