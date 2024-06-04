@@ -16,7 +16,7 @@ body {
 	border: 0.2em solid white;
 }
  table {
-	margin-right:70%;
+	width:40%;
 	margin-left:0%;
 }
 a {
@@ -26,7 +26,7 @@ a {
 	background:white;
 	color:black;
 	float:right;
-	width:70%;
+	width:60%;
 }
 .what {
 	font-size:150%;
