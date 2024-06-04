@@ -16,7 +16,7 @@ body {
 	border: 0.2em solid white;
 }
  table {
-	width:45%;
+	width:40%;
 	margin-left:0%;
 	height:100%;
 }
@@ -27,7 +27,7 @@ a {
 	background:white;
 	color:black;
 	float:right;
-	width:45%;
+	width:60%;
 	height:100%;
 }
 .what {
